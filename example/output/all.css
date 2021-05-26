@@ -1,0 +1,79 @@
+.paydialog {
+  background-color: red;
+}
+.paydialog {
+  background-color: red;
+}
+.paydialog {
+  background-color: red;
+}
+.demo {
+  display: flex;
+}
+.paydialog {
+  background-color: red;
+}
+.demo {
+  display: flex;
+}
+.demo .item {
+  width: 50%;
+}
+html,
+body {
+  margin: 0;
+}
+.demo {
+  display: flex;
+}
+.demo .item {
+  width: 50%;
+}
+html,
+body {
+  margin: 0;
+}
+.demo {
+  display: flex;
+  flex-wrap: wrap;
+}
+.demo .item {
+  width: 50%;
+}
+.paydialog {
+  background-color: red;
+}
+html,
+body {
+  margin: 0;
+}
+.demo {
+  display: flex;
+  flex-wrap: wrap;
+}
+.demo .item {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cf-ui-button {
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid orange;
+}
+.cf-ui-button {
+  padding: 5px;
+  border-radius: 20px;
+  border: 2px solid orange;
+}
+.cf-ui-button {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid orange;
+}
+.cf-ui-button {
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1px solid orange;
+}
